@@ -1,5 +1,6 @@
 # CLI TaskMaster
 
+**Author:** Shreyash Mohanty
 **Registration Number:** 24BEC10063
 
 ## Overview

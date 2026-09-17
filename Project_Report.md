@@ -4,7 +4,8 @@
 **Project Title**: CLI TaskMaster
 **Course**: Software Engineering
 **Type**: Command-Line Interface (CLI) Application
-**Author**: 24BEC10063
+**Author**: Shreyash Mohanty
+**Registration Number**: 24BEC10063
 
 ## 2. Introduction
 CLI TaskMaster is a lightweight, command-line based task management system. It provides a distraction-free, keyboard-centric interface for users to quickly log, manage, and analyze their daily tasks without relying on heavy graphical user interfaces.
